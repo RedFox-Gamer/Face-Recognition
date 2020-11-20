@@ -1,5 +1,6 @@
 # Face-Recognition
 A face recognition tool using Python and OpenCV.
+Tutorial available on my *Instagram* page: https://www.instagram.com/p/CHzl_fdJTE4/
 
 **How to use:**
  - Define an *.xml* file in the 7th line.
